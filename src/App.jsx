@@ -15,7 +15,8 @@ function App() {
   return (
     <BrowserRouter>
     <div className='relative z-0 bg-primary'>
-      <div className='bg-hero-pattern bg-cover bg-no-repeat bg-center bg-[length:130%] bg-top' >
+      <div className='bg-hero-pattern bg-no-repeat bg-center' 
+       style={{ backgroundSize: '130%', backgroundPosition: 'top' }}>
         <Navbar />
         <div className="pt-20">
         <Hero />
