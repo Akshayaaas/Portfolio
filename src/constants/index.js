@@ -95,18 +95,7 @@ import {
       name: "figma",
       icon: figma,
     },
-    {
-      name: ".Net",
-      icon: NET,
-    },
-    {
-      name: ".NET core",
-      icon: NETcore,
-    },
-    {
-      name: "C Sharp",
-      icon: Csharp,
-    },
+
     {
       name: "Azure",
       icon: Azure,
@@ -116,29 +105,30 @@ import {
   
   const experiences = [
     {
-      title: "Web Developer",
+      title: "Jr Software Engineer",
       company_name: "Cognizant Technology Solutions",
       icon: ctslogo,
       iconBg: "#383E56",
       date: "Jul 2022 - sep 2023",
       points: [
-        "Developed and maintained responsive web applications using React.js, JavaScript and related front-end tools.",
-        "Collaborated with designers and product managers to implement user-friendly UIs and improve user experience.",
-        "Ensured cross-browser compatibility and responsive behaviour across various devices using css and media queries.",
-        "Participated in code reviews, shared best practices and helped improve front-end code quality within the team.",
+        "Built and optimized scalable web applications using React.js, Redux Toolkit, and AsyncThunk middleware for efficient state management and asynchronous operations.",
+" Utilized React Hooks (such as useState, useEffect, useContext) to manage state and side effects, contributing to cleaner and more readable code.",
+" Integrated Framer Motion for smooth animations and interactive UI transitions to enhance user engagement and visual feedback.",
+" Styled components using Tailwind CSS and CSS approaches like styled-components, ensuring responsive and accessible design across multiple devices.",
+" Collaborated with cross-functional teams to deliver high-performance front-end features and actively participated in code reviews, enhancing code quality and team learning .",
       ],
     },
     {
-      title: "Dot Net Developer",
+      title: "Programmer Analyst Trainee",
       company_name: "Cognizant Technology Solutions",
       icon: ctslogo,
       iconBg: "#E6DEDD",
       date: "oct 2023 - Present",
       points: [
-        "Developed and maintained web applications using .net framework.",
-        "Collaborated with cross-functional teams with app team, pipeline team, Terrafarm team and DBA team in migration projects.",
-        "Implemented Auth and security features using .net framework and C# to deploy on Azure cloud.",
-        "Participated in code reviews and provided constructive feedback to other developers.",
+        "Developed and maintained responsive web applications using React.js, JavaScript and related front-end tools.",
+        "Collaborated with designers and product managers to implement user-friendly UIs and improve user experience.",
+        "Ensured cross-browser compatibility and responsive behaviour across various devices using css and media queries.",
+        "Participated in code reviews, shared best practices and helped improve front-end code quality within the team.",
 
       ],
     },
